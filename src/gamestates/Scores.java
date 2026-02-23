@@ -14,7 +14,7 @@ import java.util.List;
 import static gamestates.Gamestate.MENU;
 
 
-//DENIS
+//TEO
 /**
  * Gestioneaza starea de SCORES care poate fi accesata din meniu.
  *

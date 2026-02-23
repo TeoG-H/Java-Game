@@ -12,7 +12,7 @@ import java.awt.image.BufferedImage;
 import static utilz.Constants.UI.URMButtons.URM_SIZE;
 
 // E atunci cand termini un nivel
-// DENIS
+// TEO
 
 /**
  * Overlay-ul ce apare cand jucatorul termina nivelul

@@ -9,7 +9,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
-//DENIS
+//DENIS + TEO
 
 /**
  * Gestioneaza toate nivelele din joc.

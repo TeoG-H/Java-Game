@@ -9,7 +9,7 @@ import static utilz.Constants.EnemyConstants.*;
 import static utilz.HelpMethods.CanMoveHere;
 import static utilz.HelpMethods.IsFloor;
 
-//DENIS saptamana 6
+//TEO saptamana 6
 
 /**
  * Clasa pentru inamicul Golem

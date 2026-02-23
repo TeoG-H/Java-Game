@@ -4,6 +4,8 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+// TEO
+
 public class ScoreDatabase {
     private static final String DB_URL = "jdbc:sqlite:scores.db";
 

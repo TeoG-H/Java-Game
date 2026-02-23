@@ -15,6 +15,8 @@ import static utilz.HelpMethods.*;
 /**
  * Gestiunea unui inamic generic.
  */
+
+//TEO saptamana 3
 public abstract class Enemy extends Entity {
     protected int enemyType;
 

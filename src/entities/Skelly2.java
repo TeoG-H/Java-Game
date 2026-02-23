@@ -11,7 +11,7 @@ import static utilz.Constants.Directions.LEFT;
 import static utilz.Constants.EnemyConstants.*;
 import static utilz.Constants.ObjectConstants.GREEN_POTION;
 
-//DENIS saptamana 6
+//TEO saptamana 6
 
 /**
  * Clasa pentru inamicul Skelly2

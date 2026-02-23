@@ -7,6 +7,8 @@ import entities.Npc;
 import static utilz.Constants.EnemyConstants.BOSS;
 import static utilz.Constants.EnemyConstants.DUCKY;
 
+//TEO saptamana 7
+
 public class NpcFactory implements EnemyFactory{
     @Override
     public Enemy createEnemy(float x, float y, int type)

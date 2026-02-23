@@ -7,6 +7,8 @@ import entities.Skelly2;
 
 import static utilz.Constants.EnemyConstants.*;
 
+//TEO saptamana 7
+
 public class EnemyType1Factory implements EnemyFactory {
     @Override
     public Enemy createEnemy(float x, float y, int type)
